@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804590904331",
+    "firebase_url": "https://mvpauth-2b0db.firebaseio.com",
+    "project_id": "mvpauth-2b0db",
+    "storage_bucket": "mvpauth-2b0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804590904331:android:1adb45015f886409f0930e",
+        "android_client_info": {
+          "package_name": "ar.reloadersystem.autheticaciongoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804590904331-b72u0gj0t379l1atf5feu9ld08l88bup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.reloadersystem.autheticaciongoogle",
+            "certificate_hash": "bf2afd604886d0126adfa3fa4427d8dc3a988c18"
+          }
+        },
+        {
+          "client_id": "804590904331-cm49gr9o5jnr4rqrqv55b7j7s8ril7d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuaEjUCXyWZ-52wM3rGSJwrOTc3qwBDVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804590904331-cm49gr9o5jnr4rqrqv55b7j7s8ril7d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
