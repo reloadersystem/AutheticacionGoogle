@@ -1,4 +1,4 @@
-package ar.reloadersystem.autheticaciongoogle;
+package ar.reloadersystem.autheticaciongoogle.Basico;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,13 +15,14 @@ import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.GoogleApiClient;
 
+import ar.reloadersystem.autheticaciongoogle.R;
+
 public class LoginActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener {
 
     private GoogleApiClient googleApiClient;
     private SignInButton signInButton;
 
     public static final int SIGN_IN_CODE = 777;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

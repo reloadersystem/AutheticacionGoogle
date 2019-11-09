@@ -1,7 +1,9 @@
-package ar.reloadersystem.autheticaciongoogle;
+package ar.reloadersystem.autheticaciongoogle.Basico;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import ar.reloadersystem.autheticaciongoogle.R;
 
 public class MainActivity extends AppCompatActivity {
 
